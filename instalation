@@ -1,0 +1,9 @@
+Debian familiy :
+1. sudo apt install git
+or
+2. sudo apt-get install git
+Fedora :
+1. yum install git
+Windows :
+1. download via : https://git-scm.com/
+cek version : git --version
