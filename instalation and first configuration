@@ -7,3 +7,7 @@ Fedora :
 Windows :
 1. download via : https://git-scm.com/
 cek version : git --version
+
+make username and email author :
+git config --global user.name "Petani Kode"
+git config --global user.email contoh@petanikode.com
