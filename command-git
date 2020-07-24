@@ -1,0 +1,15 @@
+1. git init = Add current folder in local to git
+2. git add name_file.format = regist file to git 
+3. git add -A = regist all file to git
+4. git commit -m "your description" = commit perubahan in repo git
+5. git config --global user.email your_email@gmail.com = regist email author to make identity of current change
+6. git config --global user.name your_name = make user name to our git
+7. git status = view status of change who happening, every change will be viewed in here
+8. git log = view all change was happened
+9. git checkout name_brance/code_commit = toward to current branch or code commit (can viewed in git log)
+10. git merge name_branch/code_commit = merge branch to current branch 0r current code commit
+11. git branch = view branch currently
+12. git branch name_branch = make a new branch
+13. git clone link_repo = clonning repository, can by HTTPS (you must login in account github in local, SSH use public key
+14. git push origin name_branch = upload change in local to global repo in github
+15. git pull origin name_branch = take change of global repo in github
