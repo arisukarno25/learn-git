@@ -14,3 +14,14 @@
 14. git push origin name_branch = upload change in local to global repo in github
 15. git pull origin name_branch = take change of global repo in github
 16. git config --list = view account git in computer
+17. git init name_folder_git = make repository and the folder
+18. git init . = make repository in working directory
+19. git add . = same with git add -A
+20. git log --oneline = view log with one line 
+21. git log name_file = view log in current file
+22. git log --author='arisukarno25' = view log by current author
+23. git diff = view detail all file change in directory ( - or minus is code deleted, + or plus is code added)
+24. git diff name_file = view file change
+25. git diff <nama_branch 2> <nama_branch 2> = view different barnch
+26. git diff <nomer commit> <nomer commit> = view different nomor commit
+27. 
