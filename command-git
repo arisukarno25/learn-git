@@ -13,3 +13,4 @@
 13. git clone link_repo = clonning repository, can by HTTPS (you must login in account github in local, SSH use public key
 14. git push origin name_branch = upload change in local to global repo in github
 15. git pull origin name_branch = take change of global repo in github
+16. git config --list = view account git in computer
