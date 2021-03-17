@@ -5,4 +5,4 @@ a. Basic command git
 
 b. Instalation and first configuration in git
 
-Enjoy to collaborate with your team !!
+Enjoy to collaborate with your team and have a nice day !!
